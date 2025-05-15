@@ -23,7 +23,7 @@ Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os crit
 
 Somando os itens da Landing Page:<br>
 
-![Items da Landing Page](./entrega2lpitems.png)<br>
+![Items da Landing Page](./entrega2lpitems.png)<br> 
 
 <h2> Protótipo </h2>
 
