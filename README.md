@@ -3,7 +3,7 @@
 
 DISCIPLINA: STADCAS5DA_2501-2501-686302 2501-PROJETO INTEGRADOR: ANÁLISE DE SOLUÇÕES INTEGRADAS PARA ORGANIZAÇÕES <br>
 PROFESSOR: CARLOS HENRIQUE VERISSIMO PEREIRA<br>
-ALUNOS DESENVOLVEDORES: <br>
+ALUNOS QUE PARTICIPARAM DO DESENVOLVEVIMENTOS: <br>
 <ul><li><b>Alexsandra Oliveira de Jesus</b></li><li><b>Ana Karolini Bloemer Noth</b></li><li><b>Henrique Carvalho Silva </b></li><li><b>Julia Petrucci dos Santos </b></li><li><b>Thalita Pereira Alfonso</b></li></ul>
 
 <h1>Enunciado</h1>
