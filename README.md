@@ -17,7 +17,7 @@ Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os crit
 
 ![Items da Entrega](./entrega2tb.jpg)<br>
 
-Somando os itens da Landing Page:<br>
+Somando os itens da Landing Page:<br> 
 
 ![Items da Landing Page](./entrega2lpi.jpg)<br> 
 
