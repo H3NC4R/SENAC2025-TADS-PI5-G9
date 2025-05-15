@@ -23,5 +23,5 @@ Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os crit
 
 Somando os itens da Landing Page:
 
-![Items da Landing Page](./entrega2tabela.png)
+![Items da Landing Page](./entrega2landingpageitems.png)
 
