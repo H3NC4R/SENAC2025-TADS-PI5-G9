@@ -15,17 +15,17 @@ O aplicado é desenvolvido utilizando o contexto dentro da prática de adoção 
 <h1>Segunda Entrega</h1>
 Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os critérios abaixo:<br>
 
-![Items da Entrega](./entrega2tb.jpg)<br>
+![](./entrega2tbl.jpg)<br>
 
 Somando os itens da Landing Page:<br> 
 
-![Items da Landing Page](./entrega2lpi.jpg)<br> 
+![](./entrega2lpi.jpg)<br> 
 
 <h2> Modelo Físico </h2>
 
 Segue abaixo Diagrama Entidade Relacionado, e respectiva ocumentação esclarecendo em modelofisico_der/DER.odt desse repositorio
 
-![DER](./modelofisico_der/DER.png)<br>
+![](./modelofisico_der/DER.png)<br>
 
 <h2> Protótipo </h2>
 
