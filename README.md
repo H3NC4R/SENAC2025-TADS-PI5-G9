@@ -17,11 +17,11 @@ Neste Projeto Integrador, foi elaborado uma solução de software, levando em co
 Ja realizada e avaliada pela própria equipe de docentes da instituição, e uma cópia foi adicionada nesse projeto caso interessados tem intenção de revisá-lo. 
 
 <h2>Segunda Parte</h2>
-Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os critérios abaixo:
+Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os critérios abaixo:<br>
 
-![Items da Entrega](./entrega2tabela.png)
+![Items da Entrega](./entrega2tabela.png)<br>
 
-Somando os itens da Landing Page:
+Somando os itens da Landing Page:<br>
 
-![Items da Landing Page](./entrega2lpitems.png)
+![Items da Landing Page](./entrega2lpitems.png)<br>
 
