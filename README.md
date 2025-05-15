@@ -8,11 +8,9 @@ ALUNOS DESENVOLVEDORES: <br>
 
 <h1>Enunciado</h1>
 
-Neste Projeto Integrador, foi elaborado uma solução de software, levando em consideração uma visão holística, com foco em serviço de TI, desde a concepção da visão do produto, valores a serem agregados, interesses das partes interessadas e elaboração de MVP (Minimum Viable Product) conforme orientações do professor da Web Conferências do professor.
+Neste Projeto Integrador, foi elaborado uma solução de software, levando em consideração uma visão holística, com foco em serviço de TI, desde a concepção da visão do produto, valores a serem agregados, interesses das partes interessadas e elaboração de MVP (Minimum Viable Product) conforme orientações do professor da Web Conferências do professor.<br>
 
-
-O tema 
-Ja realizada e avaliada pela própria equipe de docentes da instituição, e uma cópia foi adicionada nesse projeto caso interessados tem intenção de revisá-lo no link: https://github.com/H3NC4R/SENAC2025-TADS-PI5-G9/raw/main/PI5-EntregaParte1.pdf<br>
+O aplicado é desenvolvido utilizando o contexto dentro da prática de adoção de animais para casa, ao qual a apresentação da solução foi descrita na primeira entrega do projeto, e uma cópia foi adicionada nesse projeto caso interessados tem intenção de revisá-lo no link: https://github.com/H3NC4R/SENAC2025-TADS-PI5-G9/raw/main/PI5-EntregaParte1.pdf<br>
 
 <h1>Segunda Entrega</h1>
 Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os critérios abaixo:<br>
