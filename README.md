@@ -19,7 +19,7 @@ Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os crit
 
 Somando os itens da Landing Page:<br>
 
-![Items da Landing Page](./entrega2lp.jpg)<br> 
+![Items da Landing Page](./entrega2lpi.jpg)<br> 
 
 <h2> Modelo Físico </h2>
 
