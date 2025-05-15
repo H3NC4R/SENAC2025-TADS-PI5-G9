@@ -15,11 +15,11 @@ O aplicado é desenvolvido utilizando o contexto dentro da prática de adoção 
 <h1>Segunda Entrega</h1>
 Entrega final do projeto por meio dessa publicação do GITHUB, seguindo os critérios abaixo:<br>
 
-![Items da Entrega](./entrega2tb.png)<br>
+![Items da Entrega](./entrega2tb.jpg)<br>
 
 Somando os itens da Landing Page:<br>
 
-![Items da Landing Page](./entrega2lp.png)<br> 
+![Items da Landing Page](./entrega2lp.jpg)<br> 
 
 <h2> Modelo Físico </h2>
 
