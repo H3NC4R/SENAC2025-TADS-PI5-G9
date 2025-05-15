@@ -21,6 +21,12 @@ Somando os itens da Landing Page:<br>
 
 ![Items da Landing Page](./entrega2lplist.png)<br> 
 
+<h2> Modelo Físico </h2>
+
+Segue abaixo Diagrama Entidade Relacionado, e respectiva ocumentação esclarecendo em modelofisico_der/DER.odt desse repositorio
+
+![DER](./modelofisico_der/DER.png)<br>
+
 <h2> Protótipo </h2>
 
 Desenvolvido no FIGMA, no link: https://www.figma.com/design/pVxyLxhcC7pohVNbrZu8Zh/PROJETO-INTEGRADOR?node-id=0-1&t=rTGHXthIWgQUeNW9-1<br>
